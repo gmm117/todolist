@@ -29,7 +29,9 @@
             * 프론트앤드 로드맵 : https://github.com/devjang/developer-roadmap
             * 개발스터디 : react, vuejs, angular, redux, webpack, babel, typescript
             * 개발프로젝트 : portfolio, 부동산앱(realtyzib), 마크다운(light-markdown)
-    * 
+    * 지금까지 다녔던 회사에 회고
+        * 좋았던 점, 아쉬웠던 점
+    * 미래의 회사의 대한 비전
 
 - 면접질문 : 3월 31일
     * 프로그래밍을 시작한 경위와 본격적으로 투신하고 생업으로 삼기로 결정한 이야기를 해주세요.
